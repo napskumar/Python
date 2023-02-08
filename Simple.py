@@ -21,10 +21,11 @@ for chval in data:
         consonants+=1
 
 
-print("\n\n*********************")
+print("\n\n")
+print("*" * 20)
 print("UPPERCASE  :",uppercase)
 print("LOWERCASE  :",lowercase)
 print("VOWELS     :",vowels)
 print("CONSONANTS :",consonants)
 print("Total Char :",len(data))
-print("*********************")
+print("*" * 20)
